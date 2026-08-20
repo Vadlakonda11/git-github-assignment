@@ -2,3 +2,4 @@
 *.tmp
 password.txt
 .env
+passwords.txt
